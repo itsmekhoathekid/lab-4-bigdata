@@ -1,0 +1,11 @@
+stream_config:
+  dataset_path: '/home/anhkhoa/ml4secu/data.csv'
+  batch_size: 4
+  num_workers: 4
+  split: 'train'
+  endless: True
+  sleep: 3
+  folder: '/home/anhkhoa/KHDL-BigData-thuc-hanh/lab-4/data'
+
+
+
